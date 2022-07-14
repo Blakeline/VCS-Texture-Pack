@@ -4,7 +4,7 @@
 High resolution texture pack for the PSP version of Grand Theft Auto: Vice City Stories especially made for AliceVCS.
 
 ## Install
-Put `textures.ini` and the folders in `savedata/psp/textures/ULUS10160/`.
+Put `savedata` folder in main game directory.
 
 ## Credits
 * AliceTS
