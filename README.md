@@ -12,6 +12,7 @@ Put `savedata` folder in main game directory.
 * Tecnotronic
 ### Programs used
 * [paint.net](http://getpaint.net)
+* [waifu2x](http://waifu2x.udp.jp)
 
 ## Screenshots
 | <img src="https://github.com/Blakeline/VCS-Texture-Pack/blob/master/z_res/images/screenshot1.png?raw=true"> | <img src="https://github.com/Blakeline/VCS-Texture-Pack/blob/master/z_res/images/screenshot2.png?raw=true"> |
